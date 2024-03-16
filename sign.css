@@ -1,0 +1,46 @@
+body
+{
+    background-image:url(../pics/p34.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.logo{
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.text{
+    text-align: center;
+    width: 483px;
+    height:480px;
+    background-color: rgba(65, 93, 131, 0.271);
+    border: 1px solid white;
+    position: absolute;
+    top:87px;
+    left:32.2%;
+    padding: 2px ;
+   
+}
+.tex{
+    font-weight: 800;
+    color: rgb(255, 255, 255);
+    text-shadow:3px 3px rgb(0, 24, 238);
+    font-size: 60px;
+}
+.te{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-weight:700;
+    
+}
+.t{
+    text-decoration: none;
+    color: #000;
+    padding: 10px 10px;
+    border: 2px solid rgb(23, 6, 255);
+}
+.t:hover{
+    background-color: rgb(127, 161, 255);
+}

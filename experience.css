@@ -1,0 +1,360 @@
+body
+{
+    background-image: url("../pics/bg.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+.logo{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.top
+{
+    height: 90px;
+    position: absolute;
+    text-decoration: none;
+    overflow: auto;
+    top: 8px;
+    right: 16px;
+    text-align: right;
+}
+
+.top ul 
+{
+    vertical-align:middle;
+    text-decoration: none;
+    list-style: none;
+    text-align: right;
+}
+
+.top ul li
+{
+    text-align: right;
+    top: 2%;
+    list-style-type: none;
+    text-decoration: none;
+    height: 24px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    display: inline-block;
+}
+.top ul li a
+{
+    background-color: #fff;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    line-height: 70px;
+    padding: 3px 10px;
+    text-align: right;
+    text-decoration: none;
+    opacity: 0.7;
+    letter-spacing:0.2px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+a:link
+{
+    text-decoration: none;
+    color:rgb(2, 2, 2);
+    font-size:20px;
+}
+.top ul li a:hover
+{
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 3px solid #000;
+    text-decoration: none;
+    background-color: rgba(213, 214, 255, 0.747);
+    font-size:25px;
+    color:rgb(0, 0, 0);;
+    transition: 1s;
+}
+
+.ex{
+    font-size: 60px;
+    background-color: #647ded7c;
+    box-shadow:5px 5px #000000b0;
+    position: absolute;
+    text-align: center;
+    width: fit-content;
+    left:28%;
+    top: 35%;   
+}
+
+.text{
+    margin-top: 32%;
+    text-align: center;
+    margin-left: 0%;
+    color: #000;
+    height: 540px;
+    background-color:#637e7ed7;
+}
+.t1{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.t2{
+    margin-top:-3%;
+}
+
+.r1{
+    border: 1px solid rgb(172, 169, 169);
+    color: #fff;
+    top: 70%;
+    background-color: #fff;
+    height: 300px;
+    width: 280px;
+    left: 2.2%;
+    top: 132%;
+    position: absolute;
+}
+
+.b1{
+    height: 200px;
+    width: 250px;
+    margin-left:-46.5%;
+    margin-top:1%;
+    position: absolute;
+    border: 1px solid #000;
+}
+.b1:hover{
+    height: 205px;
+    width: 255px;
+    margin-left: -46.8%;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 16px 30px 0 rgba(0, 0, 0, 0.19);
+}
+.p1{
+    margin-left: -75.8%;
+    position:relative;
+    height: 50px;
+    font-size: 20px;
+    margin-top:18%;
+}
+.r2{
+    border: 1px solid rgb(172, 169, 169);
+    color: #fff;
+    top: 70%;
+    background-color: #fff;
+    height: 300px;
+    width: 280px;
+    left: 26.3%;
+    top: 132%;
+    position: absolute;
+}
+.b2{
+    border: 1px solid #000;
+    position: absolute;
+    margin-top: -22%;
+    height: 200px;
+    width: 250px;
+    margin-left: -22.5%;
+}
+.b2:hover{
+    height: 205px;
+    width: 255px;
+    margin-top:-22%;
+    margin-left:-22.7%;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 16px 30px 0 rgba(0, 0, 0, 0.19);
+}
+.p2{
+    font-size: 20px;
+    margin-top: -5.2%;
+    margin-left: -27%;
+    position:relative;
+    height: 50px;
+}
+.r3{
+    border: 1px solid rgb(172, 169, 169);
+    color: #fff;
+    top: 70%;
+    background-color: #fff;
+    height: 300px;
+    width: 280px;
+    left: 51%;
+    top: 132%;
+    position: absolute;
+}
+.b3{
+    position: absolute;
+    margin-top: -22%;
+    height: 200px;
+    width: 250px;
+    margin-left:2.2%;
+    border: 1px solid #000;
+}
+.b3:hover{
+    height: 205px;
+    width: 255px;
+    margin-top:-22%;
+    margin-left:2%;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 16px 30px 0 rgba(0, 0, 0, 0.19);
+}
+.p3{
+    margin-top: -5.3%;
+    margin-left: 23.2%;
+    font-size: 20px;
+    position:relative;
+    height: 50px;
+}
+.r4{
+    border: 1px solid rgb(172, 169, 169);
+    color: #fff;
+    top: 70%;
+    background-color: #fff;
+    height: 300px;
+    width: 280px;
+    left: 76%;
+    top: 132%;
+    position: absolute;
+}
+.b4{
+    border: 1px solid #000;
+    position: absolute;
+    margin-top: -22%;
+    height: 200px;
+    width: 250px;
+    margin-left:27.2%;
+}
+.b4:hover{
+    height: 205px;
+    width: 255px;
+    margin-top:-22%;
+    margin-left:26.95%;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 16px 30px 0 rgba(0, 0, 0, 0.19);
+}
+.p4{
+    margin-top: -6%;
+    margin-left:74.5%;
+    position:relative;
+    font-size: 20px;
+    height: 50px;
+}
+.hmm{
+    border: 1px solid #000;
+    margin-top: 5%;
+    height: 400px;
+    background-color: rgba(0,0,0,0.4);
+    text-align: center;
+}
+.p{
+    font-size: 20px;
+    font-family: monospace;
+}
+.pp{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.ppp{
+   font-size:25px;
+}
+.pppp{
+    text-decoration:none;
+    color: black;
+}
+.pppp:hover{
+    font-size: 22px;
+}
+.haaa{
+    margin-top: 5%;
+    margin-left: 3.5%;
+}
+.haa{
+    width: 1250px;
+}
+.ha{
+   font-size: 27px;
+   position: absolute;
+   margin-left: 52%;
+   margin-top:-19%;
+   color: #fff;
+}
+.h{
+    text-decoration: none;
+    color: #000;
+    position: absolute;
+    margin-left: -41%;
+    margin-top:-10%;
+    font-size: 10px;
+    background-color:#ced4da;
+    padding: 1px solid #fff;
+}
+.h:hover{
+    background-color: #fff;
+    color: #000;
+    font-size: 22px;
+}
+
+footer{
+    background-color: #000;
+    margin-left: -1%;
+    position: absolute;
+    top: 347%;
+    color:#fff;
+    height: 50%;
+    width: 103%;
+    display: inline-block;
+}
+
+footer ul{
+    color: #fff;
+    display: inline-block;
+    list-style: none;
+   
+}
+
+.ul1 li {
+    text-decoration: none;
+    display: inline-block;
+    padding: 40px 100px;
+    font-size: 30px;
+}
+
+.ul2 {
+    color: gray;
+    position: absolute;
+    left: 7.2%;
+    top: 30%;
+}
+
+.ul3 {
+    color: gray;
+    position: absolute;
+    left: 31%;
+    top: 30%;
+}
+
+.ul4 {
+    color: gray;
+    position: absolute;
+    left: 57.5%;
+    top: 30%;
+}
+
+.ul5 {
+    color: gray;
+    position: absolute;
+    left: 77%;
+    top: 30%;
+}
+
+.hi{
+    color: transparent;
+    border: 1px solid #fff;
+    padding: 0px 300px;
+    width: 80%;
+    height: 0%;
+    top: 250px;
+    position: absolute;
+}
+.right{
+    margin-left: -298px;
+    color: #fff;
+    margin-top: 1px;
+}
+
+.lo{
+    margin-top: -30px;
+    margin-left: 67%;    
+    letter-spacing: 20px;
+}
